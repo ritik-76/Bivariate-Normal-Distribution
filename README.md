@@ -1,5 +1,10 @@
 # Bivariate-Normal-Distribution
-## python library used - Numpy,Jax,Jax.numpy,Matplotlib.pyplot,Scipi
+## python library used -
+1.Numpy
+2.Jax
+3.Jax.numpy
+4.Matplotlib.pyplot
+5.Scipi
 ## STEPS- 
 1. First we will take 2D mean vector and a covariance matrix
 2. Get the 1-d PDFs 
